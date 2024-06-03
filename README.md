@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CodeinginDev
+- 👋 Hi, I’m @Aananda
 - 👀 I’m interested in learning and coding.
 - 🌱 I’m currently learning React JS.
 - 💞️ I’m looking to collaborate on different projects for good knowledge of digitalization of programmings.
